@@ -34,7 +34,7 @@ packages your project depends on.
 
 As you can see, [`require`](04-schema.md#require) takes an object that maps
 **package names** (e.g. `monolog/monolog`) to **version constraints** (e.g.
-`1.0.*`).
+`2.0.*`).
 
 Composer uses this information to search for the right set of files in package
 "repositories" that you register using the [`repositories`](04-schema.md#repositories)
